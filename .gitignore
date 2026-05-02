@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vs/
+*.swp
+*.swo
+
+# Project specific
+logs/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
